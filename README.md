@@ -1,4 +1,4 @@
-# Titanic-Dataset-Analysis-
+# Titanic Analysis
 Data Analysis of passenger information such as survival, gender, class, age, ticket price what factors influenced their survival.
 Titanic Dataset Analysis Using Python
 Objective: To analyse passenger information such as survival, gender, class, age, ticket price what factors influenced their survival.
